@@ -9,11 +9,11 @@ python3 greed_game
 # Project Structure
 The project is structured as followed.
 
-root - project folder
-greed - game code
-game - contains classes
-main.py - program entry
-README.md - information about the game
++ root - project folder
++ greed - game code
++ game - contains classes
++ main.py - program entry
++ README.md - information about the game
 
 # Required Technologies
 Python 3.8.0
